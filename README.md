@@ -1,3 +1,3 @@
 # E-Voting
 Secured E-Voting App using Flask
-![Score1](https://1drv.ms/u/s!AtKvjogrwSZgdeVVz3g6abexSpw)
+![Score1](https://github.com/avdhruvast/E-Voting/blob/master/progress.png)
